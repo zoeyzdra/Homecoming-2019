@@ -1,0 +1,42 @@
+body{
+background-color: rgb(20, 44, 225);
+}
+
+.left{
+  text-align: left;
+}
+
+h1{
+  text-align: center;
+  font-family:  Times New Romana;
+  font-size: 90px;
+  text-shadow: 2px 2px #FF0000;
+}
+
+.days{
+   text-align: center;
+  font-family:  Times New Romana;
+  font-size:40px;
+  text-shadow: 1.5px 1.5px #FF0000;
+}
+
+.p{
+  text-align: center;
+  font-family:  Times New Romana;
+  font-size:30px;
+  color:white;
+  text-shadow: 1.5px 1.5px #FF0000;
+ 
+}
+#eagles{
+  position: relative;
+  left: 600px;
+  bottom: 400px;
+  
+}
+#cardinal{
+    position: relative;
+  right: 620px;
+  bottom: 750px;
+  
+}
