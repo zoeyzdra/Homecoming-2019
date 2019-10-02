@@ -4,4 +4,4 @@ We started out with a wireframe, and I let only Zander draw it out after we disc
 
 I helped Jonah and Reese with the basics of coding, and we used w3schools for resources. We agreed on the colors and also found a way to make the text look nicer. We learned how to move images in CSS. 
 
-Finally, I taught the members of the group how to post on Github. 
+Finally, I taught the members of the group how to post their project on Github. 
